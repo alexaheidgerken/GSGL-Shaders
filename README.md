@@ -18,7 +18,7 @@ You can try out the [instructor's implementation](https://csci-4611-spring-2023.
 You should fill out this information before submitting your assignment. Make sure to document the name and source of any third party assets that you added, such as models, images, sounds, or any other content used that was not solely written by you. 
 
 Name: Alexa Heidgerken
-
+4 late days
 
 Third Party Assets:
 
